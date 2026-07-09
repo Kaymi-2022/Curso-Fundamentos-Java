@@ -6,7 +6,7 @@ import java.util.Scanner;
 ==============================
  */
 
-public class sistemitas {
+public class sesion2 {
 
 
     Scanner scanner = new Scanner(System.in);
@@ -60,7 +60,7 @@ public class sistemitas {
     //menu principal
     public static void main(String[] args) {
 
-        sistemitas sistema = new sistemitas();
+        sesion2 sistema = new sesion2();
         Scanner scanner = new Scanner(System.in);
         int opcion;
 
